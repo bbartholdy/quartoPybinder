@@ -1,0 +1,10 @@
+---
+title: My Paper
+author: Me
+format:
+  html: default
+---
+
+## Introduction
+
+Some text in markdown.
